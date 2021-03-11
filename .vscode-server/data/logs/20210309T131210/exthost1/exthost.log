@@ -1,0 +1,140 @@
+[2021-03-09 13:12:13.444] [exthost] [info] extension host started
+[2021-03-09 13:12:13.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-09 13:12:13.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/debug-auto-launch/dist/extension
+[2021-03-09 13:12:13.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-09 13:12:13.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/git/dist/main
+[2021-03-09 13:12:14.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-09 13:12:14.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/github/dist/extension.js
+[2021-03-09 13:12:14.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-09 13:12:14.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-09 13:12:14.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-09 13:12:14.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-09 13:12:14.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-09 13:12:14.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-09 13:12:14.241] [exthost] [info] eager extensions activated
+[2021-03-09 13:12:14.265] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-09 13:12:14.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-09 13:12:14.592] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 863
+[2021-03-09 13:21:06.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-03-09 13:21:06.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-09 13:21:06.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-03-09 13:21:06.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/extension-editing/dist/extensionEditingMain
+[2021-03-09 13:21:06.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-03-09 13:21:06.837] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-09 13:21:06.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-03-09 13:21:06.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain
+[2021-03-09 13:21:07.774] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 864
+[2021-03-09 13:21:07.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-09 13:21:07.834] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension
+[2021-03-09 13:21:12.945] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 864
+[2021-03-09 13:27:56.608] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 863
+[2021-03-09 13:28:01.993] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 863
+[2021-03-09 13:28:43.499] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5795
+[2021-03-09 13:29:01.512] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-03-09 16:45:09.071] [exthost] [error] [vscode.npm] provider FAILED
+[2021-03-09 16:45:09.202] [exthost] [error] Error: spawn ENOMEM
+	at ChildProcess.spawn (internal/child_process.js:407:11)
+	at spawn (child_process.js:548:9)
+	at Object.execFile (child_process.js:232:17)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:36104
+	at new Promise (<anonymous>)
+	at t.PackageJSONContribution.npmView (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:35946)
+	at t.PackageJSONContribution.fetchPackageInfo (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:35856)
+	at t.PackageJSONContribution.getInfoContribution (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:36997)
+	at a.provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:24620)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:156761
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:7538
+	at new Promise (<anonymous>)
+	at Object.p [as asPromise] (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:7510)
+	at n.provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:156732)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:179262
+	at Se._withAdapter (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:176060)
+	at Se.$provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:179238)
+	at u._doInvokeHandler (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:10509)
+	at u._invokeHandler (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:10201)
+	at u._receiveRequest (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:8820)
+	at u._receiveOneMessage (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:7673)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:5782
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at g.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:15443)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:106:29119
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at g.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:15443)
+	at t._receiveMessage (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:20693)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:19791
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at l.acceptChunk (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:12808)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:12156
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:106:18119
+	at afterWrite (_stream_writable.js:490:5)
+	at onwrite (_stream_writable.js:470:7)
+	at InflateRaw.afterTransform (_stream_transform.js:98:3)
+	at Zlib.processCallback (zlib.js:578:8)
+[2021-03-09 16:45:21.115] [exthost] [error] [vscode.npm] provider FAILED
+[2021-03-09 16:45:21.172] [exthost] [error] Error: spawn ENOMEM
+	at ChildProcess.spawn (internal/child_process.js:407:11)
+	at spawn (child_process.js:548:9)
+	at Object.execFile (child_process.js:232:17)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:36104
+	at new Promise (<anonymous>)
+	at t.PackageJSONContribution.npmView (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:35946)
+	at t.PackageJSONContribution.fetchPackageInfo (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:35856)
+	at t.PackageJSONContribution.getInfoContribution (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:36997)
+	at a.provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/npm/dist/npmMain.js:14:24620)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:156761
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:7538
+	at new Promise (<anonymous>)
+	at Object.p [as asPromise] (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:7510)
+	at n.provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:156732)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:179262
+	at Se._withAdapter (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:176060)
+	at Se.$provideHover (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:179238)
+	at u._doInvokeHandler (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:10509)
+	at u._invokeHandler (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:10201)
+	at u._receiveRequest (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:8820)
+	at u._receiveOneMessage (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:7673)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:90:5782
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at g.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:15443)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:106:29119
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at g.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:15443)
+	at t._receiveMessage (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:20693)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:19791
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at l.acceptChunk (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:12808)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:65:12156
+	at p.fire (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:57:1836)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:106:18119
+	at afterWrite (_stream_writable.js:490:5)
+	at onwrite (_stream_writable.js:470:7)
+	at InflateRaw.afterTransform (_stream_transform.js:98:3)
+	at Zlib.processCallback (zlib.js:578:8)
+[2021-03-09 17:22:29.642] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-03-09 17:22:29.643] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:168679)
+	at U.resolveCompletionItem (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:168414)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-03-09 19:18:20.077] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-03-09 19:18:20.078] [exthost] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+	at doWrite (_stream_writable.js:399:19)
+	at writeOrBuffer (_stream_writable.js:387:5)
+	at Socket.Writable.write (_stream_writable.js:318:11)
+	at m.write (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:45:61197)
+	at p.write (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:45609)
+	at p.sendRequest (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:48014)
+	at p.sendNextRequests (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:47795)
+	at p.executeImpl (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:47642)
+	at h.execute (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:49190)
+	at g.executeImpl (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:52076)
+	at k.executeImpl (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:209939)
+	at k.execute (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:209525)
+	at /root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:145195
+	at C.interruptGetErr (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:223339)
+	at k.interruptGetErr (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:210007)
+	at _.provideCompletionItems (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension.js:1:145163)
+	at async U.provideCompletionItems (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:167606)
+[2021-03-09 23:00:48.923] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-03-09 23:00:49.972] [exthost] [info] exiting with code 0

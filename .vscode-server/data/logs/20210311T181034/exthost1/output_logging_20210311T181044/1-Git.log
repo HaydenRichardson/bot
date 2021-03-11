@@ -1,0 +1,33 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/ping-pong-bot/my-bot
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2116b7574ced28d47a39eee6708ddb538133b7ba
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2116b7574ced28d47a39eee6708ddb538133b7ba
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git cat-file -s 53c9876fc7dc11e6adc34736d3d131c7c742e13a
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git cat-file -s 53c9876fc7dc11e6adc34736d3d131c7c742e13a
+> git show --textconv :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2116b7574ced28d47a39eee6708ddb538133b7ba
+> git config --get commit.template

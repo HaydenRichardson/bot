@@ -1,0 +1,188 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/ping-pong-bot/my-bot
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git fetch
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/beans14/my-bot.git/'
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git cat-file -s b23bf512a960a8ba4ad54832c2513e523d70bf8d
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package-lock.json
+> git cat-file -s 3968da29416a31e48e7dd4b0549a0c583dafc725
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git cat-file -s b23bf512a960a8ba4ad54832c2513e523d70bf8d
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/moderation/setactivity.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setactivity.js
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/moderation/kick.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/kick.js
+> git cat-file -s 92d63c6869b6b706df5a1d4933ecc0778b7ffcb3
+> git show --textconv :commands/moderation/setprefix.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setprefix.js
+> git cat-file -s 9e3f07ebcd08dd97ec070fc14a4dac5bb988ba3e
+> git show --textconv :commands/moderation/setactivity.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setactivity.js
+> git show --textconv :commands/moderation/kick.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/kick.js
+> git cat-file -s 92d63c6869b6b706df5a1d4933ecc0778b7ffcb3
+> git show --textconv :commands/moderation/setactivity.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setactivity.js
+> git show --textconv :index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :commands/moderation/setprefix.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setprefix.js
+> git cat-file -s 9e3f07ebcd08dd97ec070fc14a4dac5bb988ba3e
+> git show --textconv :commands/moderation/setactivity.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setactivity.js
+> git show --textconv :index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :commands/moderation/setactivity.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/setactivity.js
+> git show --textconv :index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :commands/moderation/nuke.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/nuke.js
+> git cat-file -s 739e2b35c50bc0f4a4aac0f8607e7a95365dfefe
+> git show --textconv :commands/utility/math.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/utility/math.js
+> git cat-file -s 3d9722220c0b1770ca3b583a6e789bfe1ea7d89e
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :commands/moderation/kick.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/kick.js
+> git cat-file -s 92d63c6869b6b706df5a1d4933ecc0778b7ffcb3
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git cat-file -s b23bf512a960a8ba4ad54832c2513e523d70bf8d
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git show --textconv :commands/moderation/purge.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/purge.js
+> git cat-file -s a39330c6ec63d9f46f9f7ab202f0ce7624db3ccd
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git check-ignore -v -z --stdin
+> git show --textconv :node_modules/spotify-url-info/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/node_modules/spotify-url-info/index.js
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :commands/music/thing.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/thing.js
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :commands/music/thing.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/thing.js
+> git show --textconv :commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s e0a5c990bfeda5266bb089c2a4acb3ed06ebc62a
+> git show --textconv :index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997

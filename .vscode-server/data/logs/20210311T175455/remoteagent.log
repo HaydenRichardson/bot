@@ -1,0 +1,43 @@
+[2021-03-11 17:54:55.563] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-03-11 17:54:55.563] [remoteagent] [info] Extension host agent started.
+[2021-03-11 17:54:55.720] [remoteagent] [error] [127.0.0.1][59bfd702][ManagementConnection] Unknown reconnection token.
+[2021-03-11 17:55:04.957] [remoteagent] [info] [127.0.0.1][6c6d5df7][ManagementConnection] New connection established.
+[2021-03-11 17:55:05.046] [remoteagent] [info] [127.0.0.1][12a72163][ExtensionHostConnection] New connection established.
+[2021-03-11 17:55:05.237] [remoteagent] [info] [127.0.0.1][12a72163][ExtensionHostConnection] <1268> Launched Extension Host Process.
+[2021-03-11 17:55:23.677] [remoteagent] [info] [127.0.0.1][6c6d5df7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-11 17:55:24.699] [remoteagent] [info] [127.0.0.1][12a72163][ExtensionHostConnection] <1268> Extension Host Process exited with code: 0, signal: null.
+[2021-03-11 17:55:24.700] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-11 17:55:29.876] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-03-11 17:55:29.876] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-03-11 17:55:30.104] [remoteagent] [info] [127.0.0.1][ec2e6fb9][ManagementConnection] New connection established.
+[2021-03-11 17:55:30.171] [remoteagent] [info] [127.0.0.1][dbf914a8][ExtensionHostConnection] New connection established.
+[2021-03-11 17:55:30.175] [remoteagent] [info] [127.0.0.1][dbf914a8][ExtensionHostConnection] <1524> Launched Extension Host Process.
+[2021-03-11 17:55:51.733] [remoteagent] [info] [127.0.0.1][ec2e6fb9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-11 17:55:52.769] [remoteagent] [info] [127.0.0.1][dbf914a8][ExtensionHostConnection] <1524> Extension Host Process exited with code: 0, signal: null.
+[2021-03-11 17:55:52.769] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-03-11 17:55:52.769] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-11 17:55:57.551] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-03-11 17:55:57.551] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-03-11 17:55:57.776] [remoteagent] [info] [127.0.0.1][532e340d][ManagementConnection] New connection established.
+[2021-03-11 17:55:57.862] [remoteagent] [info] [127.0.0.1][aea94fba][ExtensionHostConnection] New connection established.
+[2021-03-11 17:55:57.874] [remoteagent] [info] [127.0.0.1][aea94fba][ExtensionHostConnection] <1792> Launched Extension Host Process.
+[2021-03-11 17:56:04.900] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-03-11 18:00:57.552] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-03-11 18:07:49.177] [remoteagent] [info] [127.0.0.1][532e340d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-11 18:07:50.214] [remoteagent] [info] [127.0.0.1][aea94fba][ExtensionHostConnection] <1792> Extension Host Process exited with code: 0, signal: null.
+[2021-03-11 18:07:50.214] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-11 18:07:56.534] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-03-11 18:07:56.534] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-03-11 18:07:56.798] [remoteagent] [info] [127.0.0.1][652fc2e9][ManagementConnection] New connection established.
+[2021-03-11 18:07:56.877] [remoteagent] [info] [127.0.0.1][07429aaf][ExtensionHostConnection] New connection established.
+[2021-03-11 18:07:56.883] [remoteagent] [info] Terminal layout retrieved: []
+[2021-03-11 18:07:56.887] [remoteagent] [info] [127.0.0.1][07429aaf][ExtensionHostConnection] <3302> Launched Extension Host Process.

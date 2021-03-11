@@ -1,0 +1,1087 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/ping-pong-bot
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git fetch
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git fetch
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/moderation/purge.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/purge.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/moderation/purge.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/purge.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/8-ball.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/help.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/help.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/help.js
+> git show --textconv :my-bot/commands/fun/help.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/fun/swag-check.js
+> git show --textconv :my-bot/commands/fun/swag-check.js
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/commands/music/play.js
+fatal: your current branch 'master' does not have any commits yet
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/pause.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/pause.js
+> git show --textconv :my-bot/commands/music/queue.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/queue.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/node_modules/spotify-url-info/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/node_modules/spotify-url-info/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/commands/music/play.js
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/skip.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/skip.js
+> git show --textconv :my-bot/commands/music/np.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/np.js
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/commands/music/play.js
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/moderation/purge.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/purge.js
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/moderation/nuke.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/nuke.js
+> git show --textconv :my-bot/commands/moderation/kick.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/moderation/kick.js
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package-lock.json
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git show --textconv :my-bot/package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package-lock.json
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git rev-parse --git-dir
+Open repository: /root
+> git fetch
+> git status -z -u
+> git show --textconv :.npm/_logs/2021-03-08T18_06_32_532Z-debug.log
+> git ls-files --stage -- /root/.npm/_logs/2021-03-08T18_06_32_532Z-debug.log
+> git ls-files --stage -- /root/.npm/_logs/2021-03-08T18_06_32_532Z-debug.log
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :.npm/_logs/2021-03-08T18_06_32_532Z-debug.log
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/node_modules/spotify-url-info/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/node_modules/spotify-url-info/index.js
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/music/spotify.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/spotify.js
+> git show --textconv :my-bot/commands/music/spotify.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git status -z -u
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/package.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package.json
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/package-lock.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/package.json
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/package.json
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/index.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/index.js
+> git cat-file -s 5760acf5dd8f29d94ed2f3004e47bafb91a5a997
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:my-bot/node_modules/@babel/code-frame/package.json
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/node_modules/@babel/code-frame/package.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:my-bot/node_modules/@babel/core/package.json
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/node_modules/@babel/core/package.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:my-bot/node_modules/@babel/helper-replace-supers/package.json
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/node_modules/@babel/helper-replace-supers/package.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:my-bot/node_modules/diff-sequences/package.json
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/node_modules/diff-sequences/package.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/package.json
+> git show --textconv :my-bot/node_modules/.package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/node_modules/.package-lock.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :package.json
+> git ls-files --stage -- /root/ping-pong-bot/package.json
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/package.json
+> git show --textconv :package.json
+> git show --textconv :my-bot/node_modules/.package-lock.json
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/node_modules/.package-lock.json
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git show --textconv :my-bot/commands/music/play.js
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,36 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 43059
+
+[18:23:05] Extension host agent started.
+[18:23:06] [127.0.0.1][9d7532a3][ManagementConnection] Unknown reconnection token.
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[18:25:24] [127.0.0.1][087b17d9][ManagementConnection] New connection established.
+[18:25:24] [127.0.0.1][16365310][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+mesg: ttyname failed: Inappropriate ioctl for device
+[18:25:24] [127.0.0.1][16365310][ExtensionHostConnection] <1342> Launched Extension Host Process.
+[18:25:29] [127.0.0.1][087b17d9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:25:30] [127.0.0.1][16365310][ExtensionHostConnection] <1342> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:25:30] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:25:35] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:25:35] Cancelling previous shutdown timeout
+[18:25:35] [127.0.0.1][68ac1a66][ManagementConnection] New connection established.
+[18:25:35] [127.0.0.1][f15a90cf][ExtensionHostConnection] New connection established.
+[18:25:35] [127.0.0.1][f15a90cf][ExtensionHostConnection] <1607> Launched Extension Host Process.
+[18:25:41] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+New EH opened, aborting shutdown
+[18:30:35] New EH opened, aborting shutdown

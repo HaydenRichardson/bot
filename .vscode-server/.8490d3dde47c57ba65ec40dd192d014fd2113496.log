@@ -1,0 +1,28 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 46019
+
+[13:01:40] Extension host agent started.
+[13:01:41] [127.0.0.1][33cc9656][ManagementConnection] New connection established.
+[13:01:41] [127.0.0.1][8651a25c][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+mesg: ttyname failed: Inappropriate ioctl for device
+[13:01:41] [127.0.0.1][8651a25c][ExtensionHostConnection] <6956> Launched Extension Host Process.
+[13:01:41] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/ping-pong-bot/my-bot/.vscode'
+[13:18:39] [127.0.0.1][8651a25c][ExtensionHostConnection] The client has reconnected.
+[13:19:02] [127.0.0.1][8651a25c][ExtensionHostConnection] The client has reconnected.
+[13:19:37] [127.0.0.1][8651a25c][ExtensionHostConnection] The client has reconnected.
+[14:05:34] [127.0.0.1][33cc9656][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:05:35] [127.0.0.1][8651a25c][ExtensionHostConnection] <6956> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[14:05:35] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[14:10:36] Last EH closed, shutting down

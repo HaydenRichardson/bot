@@ -1,0 +1,96 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'i', 'yt-search' ]
+2 info using npm@6.14.11
+3 info using node@v14.15.4
+4 verbose npm-session 29bbcb8d489a0509
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 200 https://registry.npmjs.org/yt-search 647ms
+8 http fetch GET 200 https://registry.npmjs.org/yt-search/-/yt-search-2.7.3.tgz 12ms (from cache)
+9 silly pacote tag manifest for yt-search@latest fetched in 679ms
+10 timing stage:loadCurrentTree Completed in 1401ms
+11 silly install loadIdealTree
+12 silly install cloneCurrentTreeToIdealTree
+13 timing stage:loadIdealTree:cloneCurrentTree Completed in 7ms
+14 silly install loadShrinkwrap
+15 timing stage:rollbackFailedOptional Completed in 0ms
+16 timing stage:runTopLevelLifecycles Completed in 1537ms
+17 silly saveTree ping-pong-bot@1.0.0
+17 silly saveTree ├─┬ @discordjs/opus@0.3.3
+17 silly saveTree │ └─┬ @discordjs/node-pre-gyp@0.1.0
+17 silly saveTree │   ├── detect-libc@1.0.3
+17 silly saveTree │   ├─┬ mkdirp@0.5.5
+17 silly saveTree │   │ └── minimist@1.2.5
+17 silly saveTree │   ├─┬ needle@2.6.0
+17 silly saveTree │   │ ├─┬ debug@3.2.7
+17 silly saveTree │   │ │ └── ms@2.1.3
+17 silly saveTree │   │ └── iconv-lite@0.4.24
+17 silly saveTree │   └─┬ semver@7.3.4
+17 silly saveTree │     └── lru-cache@6.0.0
+17 silly saveTree ├─┬ @distube/ytpl@1.0.10
+17 silly saveTree │ └── miniget@4.2.0
+17 silly saveTree ├─┬ cheerio@1.0.0-rc.5
+17 silly saveTree │ ├─┬ cheerio-select-tmp@0.1.1
+17 silly saveTree │ │ ├─┬ css-select@3.1.2
+17 silly saveTree │ │ │ ├── boolbase@1.0.0
+17 silly saveTree │ │ │ ├── css-what@4.0.0
+17 silly saveTree │ │ │ ├─┬ domhandler@4.0.0
+17 silly saveTree │ │ │ │ └── domelementtype@2.1.0
+17 silly saveTree │ │ │ └─┬ domutils@2.4.4
+17 silly saveTree │ │ │   └─┬ dom-serializer@1.2.0
+17 silly saveTree │ │ │     └── entities@2.1.0
+17 silly saveTree │ │ ├── css-what@4.0.0
+17 silly saveTree │ │ ├── domelementtype@2.1.0
+17 silly saveTree │ │ ├── domhandler@4.0.0
+17 silly saveTree │ │ └── domutils@2.4.4
+17 silly saveTree │ ├── dom-serializer@1.2.0
+17 silly saveTree │ ├── domhandler@4.0.0
+17 silly saveTree │ ├── entities@2.1.0
+17 silly saveTree │ └── htmlparser2@6.0.0
+17 silly saveTree ├── discord.js-pagination@1.0.3
+17 silly saveTree ├─┬ discord.js@12.5.1
+17 silly saveTree │ ├── @discordjs/collection@0.1.6
+17 silly saveTree │ ├─┬ @discordjs/form-data@3.0.1
+17 silly saveTree │ │ ├── asynckit@0.4.0
+17 silly saveTree │ │ ├─┬ combined-stream@1.0.8
+17 silly saveTree │ │ │ └── delayed-stream@1.0.0
+17 silly saveTree │ │ └─┬ mime-types@2.1.28
+17 silly saveTree │ │   └── mime-db@1.45.0
+17 silly saveTree │ ├─┬ abort-controller@3.0.0
+17 silly saveTree │ │ └── event-target-shim@5.0.1
+17 silly saveTree │ └── tweetnacl@1.0.3
+17 silly saveTree ├── figlet@1.5.0
+17 silly saveTree ├── languagedetect@2.0.0
+17 silly saveTree ├─┬ mathjs@9.1.0
+17 silly saveTree │ ├── complex.js@2.0.11
+17 silly saveTree │ ├── decimal.js@10.2.1
+17 silly saveTree │ ├── escape-latex@1.2.0
+17 silly saveTree │ ├── fraction.js@4.0.13
+17 silly saveTree │ └── javascript-natural-sort@0.7.1
+17 silly saveTree ├── memejs@1.2.3
+17 silly saveTree └── node@15.4.0
+18 verbose stack Error: Object for dependency "node-win-x64" is empty.
+18 verbose stack Something went wrong. Regenerate the package-lock.json with "npm install".
+18 verbose stack If using a shrinkwrap, regenerate with "npm shrinkwrap".
+18 verbose stack     at /usr/local/lib/node_modules/npm/lib/install/inflate-shrinkwrap.js:60:29
+18 verbose stack     at tryCatcher (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+18 verbose stack     at Object.gotValue (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/reduce.js:155:18)
+18 verbose stack     at Object.gotAccum (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/reduce.js:144:25)
+18 verbose stack     at Object.tryCatcher (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+18 verbose stack     at Promise._settlePromiseFromHandler (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:517:31)
+18 verbose stack     at Promise._settlePromise (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:574:18)
+18 verbose stack     at Promise._settlePromiseCtx (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:611:10)
+18 verbose stack     at _drainQueueStep (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:142:12)
+18 verbose stack     at _drainQueue (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:131:9)
+18 verbose stack     at Async._drainQueues (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:147:5)
+18 verbose stack     at Immediate.Async.drainQueues (/usr/local/lib/node_modules/npm/node_modules/bluebird/js/release/async.js:17:14)
+18 verbose stack     at processImmediate (internal/timers.js:461:21)
+19 verbose cwd /root/ping-pong-bot/my-bot
+20 verbose Linux 4.15.0-124-generic
+21 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "yt-search"
+22 verbose node v14.15.4
+23 verbose npm  v6.14.11
+24 error Object for dependency "node-win-x64" is empty.
+24 error Something went wrong. Regenerate the package-lock.json with "npm install".
+24 error If using a shrinkwrap, regenerate with "npm shrinkwrap".
+25 verbose exit [ 1, true ]

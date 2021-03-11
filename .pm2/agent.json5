@@ -1,0 +1,13 @@
+{
+    "version_management": {
+        "active": true
+    },
+    "public_key": "rzhital6v392erd",
+    "secret_key": "hnlt0glwqnsuzeo",
+    "machine_name": "discord-bot-vps-3ab0",
+    "pm2_version": "4.5.1",
+    "reverse_interact": true,
+    "info_node": "https://root.keymetrics.io",
+    "agent_transport_websocket": "true",
+    "agent_transport_axon": "false"
+}

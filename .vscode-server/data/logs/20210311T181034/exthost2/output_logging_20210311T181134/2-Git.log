@@ -1,0 +1,165 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/ping-pong-bot
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/.gitignore
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git fetch
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv :my-bot/.gitignore
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv :my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:my-bot/.gitignore
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv HEAD:package.json
+> git ls-tree -l HEAD -- /root/ping-pong-bot/package.json
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:my-bot/.gitignore
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv HEAD:my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/.gitignore
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv HEAD:my-bot/.gitignore
+> git show --textconv HEAD:my-bot/.gitignore
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git fetch
+Warning: Permanently added the RSA host key for IP address '140.82.112.4' to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-tree -l HEAD -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv HEAD:my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/.gitignore
+> git show --textconv :my-bot/.gitignore
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git cat-file -s 3c3629e647f5ddf82548912e337bea9826b434af
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/.gitignore
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /root/ping-pong-bot/my-bot/.gitignore
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/ping-pong-bot/my-bot/.gitignore
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /root/ping-pong-bot/my-bot/.gitignore
+git.getSCMResource.uri file:///root/ping-pong-bot/my-bot/.gitignore
+repo root /root/ping-pong-bot
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s 67c48a7e97f2aeb5b3baeb507707842f1bc8d635
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-bot/.gitignore
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git cat-file -s 3c3629e647f5ddf82548912e337bea9826b434af
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/.gitignore
+> git cat-file -s 3c3629e647f5ddf82548912e337bea9826b434af
+> git show --textconv :my-bot/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-bot/commands/music/play.js
+> git ls-files --stage -- /root/ping-pong-bot/my-bot/commands/music/play.js
+> git cat-file -s 67c48a7e97f2aeb5b3baeb507707842f1bc8d635
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
